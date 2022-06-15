@@ -9732,11 +9732,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\rrobasseto\\Desktop\\FormularioCadastro\\SistemaDeChamada.csproj",
+      "projectUniqueName": "D:\\Users\\rrobasseto\\Desktop\\SistemaDeChamada\\SistemaDeChamada.csproj",
       "projectName": "SistemaDeChamada",
-      "projectPath": "D:\\Users\\rrobasseto\\Desktop\\FormularioCadastro\\SistemaDeChamada.csproj",
+      "projectPath": "D:\\Users\\rrobasseto\\Desktop\\SistemaDeChamada\\SistemaDeChamada.csproj",
       "packagesPath": "D:\\Users\\rrobasseto\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\rrobasseto\\Desktop\\FormularioCadastro\\obj\\",
+      "outputPath": "D:\\Users\\rrobasseto\\Desktop\\SistemaDeChamada\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
